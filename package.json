@@ -1,4 +1,6 @@
 {
+  "name": "resolve-url-loader-forked",
+  "version": "0.1.0",
   "author": "bholloway",
   "license": "MIT",
   "private": true,
