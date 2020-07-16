@@ -45,7 +45,7 @@ function resolveUrlLoader(content, sourceMap) {
   // webpack 4: loader.options no longer defined
   var options = Object.assign(
     {
-      sourceMap: loader.sourceMap,
+      sourceMap: true,
       engine   : 'postcss',
       silent   : false,
       absolute : false,
